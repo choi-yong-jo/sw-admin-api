@@ -1,5 +1,8 @@
 # spring boot 내장 tomcat > Edit Configurations > Environment variables 값 설정
 
+# application 설정
+DB_ACTIVE=postgresql-dev
+
 # postgreSQL
 DATABASE_URL=jdbc:postgresql://localhost:5432/mydb
 DATABASE_USER=cyjo
